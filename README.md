@@ -60,4 +60,5 @@ git clone https://github.com/your-username/password-manager.git
   Demo Link 
 </h2>
 
-<a href="https://shaikhjunaid775.github.io/Password-Manager/">https://shaikhjunaid775.github.io/Password-Manager/</a>
+
+<a href="https://shaikhjunaid775.github.io/passwordManager/">Password Manager in React JS</a>
